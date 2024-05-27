@@ -3,7 +3,6 @@
 ## Description:
 # Employee Attrition Analysis
 
-## Description:
 This project explores employee attrition within our organization and aims to identify key factors contributing to attrition rates. By analyzing various HR metrics and demographic data, we seek to gain insights that can help HR professionals understand and mitigate employee turnover.
 
 ## Features:
@@ -33,4 +32,5 @@ The analysis is based on data sourced from:
 ## Installation:
 No installation is required to access the dashboard. Simply use the provided link to open it in your web browser.
 
-
+## VIEW TABLEAU DASHBOARD USING LINK
+https://public.tableau.com/app/profile/osheen.kaintura/viz/HRANALYTICS_17168243650590/HRANALYTICSDASHBOARD?publish=yes
