@@ -3,7 +3,7 @@
 ## Description:
 # Employee Attrition Analysis
 
-This project explores employee attrition within our organization and aims to identify key factors contributing to attrition rates. By analyzing various HR metrics and demographic data, we seek to gain insights that can help HR professionals understand and mitigate employee turnover.
+This project explores employee attrition within a organization and aims to identify key factors contributing to attrition rates. By analyzing various HR metrics and demographic data, we seek to gain insights that can help HR professionals understand and mitigate employee turnover.
 
 ## Features:
 - Analysis of attrition rates over time.
